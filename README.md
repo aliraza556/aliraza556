@@ -2,13 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+here!+👋;+I'm+Ali+Raza!;" />
 </h1>
 <div align="center"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"> </div>
-<h3 align="center">Experienced Full Stack Developer specializing in NodeJS, React, Angular, Typescript, Java and Cloud Technologies, dedicated to building innovative and efficient web solutions.</h3>
+<h3 align="center"><strong>Experienced Full Stack Developer specializing in NodeJS, React, Angular, Typescript, Java and Cloud Technologies, dedicated to building innovative and efficient web solutions.</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza556&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza556" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza556" alt="aliraza556" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aliraza80461830" target="blank"><img src="https://img.shields.io/twitter/follow/aliraza80461830?logo=twitter&style=for-the-badge" alt="aliraza80461830" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aliraza80461830" target="blank"><img src="https://img.shields.io/twitter/follow/Ali Raza?logo=twitter&style=for-the-badge" alt="Ali Raza" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Testing](https://github.com/aliraza556/emp_std)
 
