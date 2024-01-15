@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Testing](https://github.com/aliraza556/emp_std)
+- 🔭 I’m currently working on [Bounties Platform](https://github.com/aliraza556/sphinx-tribes) 
 
 - 🌱 I’m currently learning **AWS Certified Solutions Architect - Associate**
 
