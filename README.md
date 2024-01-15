@@ -29,7 +29,7 @@
 - ⚡ Fun fact **I believe humor is a vital ingredient in creativity and teamwork. Expect a good laugh when working with me!**
 <br/>
 <hr/>
-<h2 align="center">⚒👯 Connect with me: 👯</h2>
+<h2 align="center">👯 Connect with me: 👯</h2>
 <p align="center">
 <a href="https://twitter.com/aliraza80461830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliraza80461830" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-raza-55669421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-raza-55669421b" height="30" width="40" /></a>
@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,angular,aws,electron,gcp,go" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-👯
+
 <br/>
 <hr/>
 
