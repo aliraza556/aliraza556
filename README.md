@@ -3,11 +3,13 @@
 </h1>
 <div align="center"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"> </div>
 <h3 align="center"><strong>Experienced Full Stack Developer specializing in NodeJS, React, Angular, Typescript, Java and Cloud Technologies, dedicated to building innovative and efficient web solutions.</strong></h3>
-
+<br/>
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza556&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza556" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza556" alt="aliraza556" /></a> </p>
-
+<br/>
+<hr/>
 <p align="left"> <a href="https://twitter.com/aliraza80461830" target="blank"><img src="https://img.shields.io/twitter/follow/Ali Raza?logo=twitter&style=for-the-badge" alt="Ali Raza" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -25,14 +27,16 @@
 - 📫  Reach me at `**alirazaakhtar1122@gmail.com**` for professional inquiries or potential collaborations
 
 - ⚡ Fun fact **I believe humor is a vital ingredient in creativity and teamwork. Expect a good laugh when working with me!**
-
+<br/>
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aliraza80461830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliraza80461830" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-raza-55669421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-raza-55669421b" height="30" width="40" /></a>
 <a href="https://instagram.com/alirazaakhtar1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alirazaakhtar1122" height="30" width="40" /></a>
 </p>
-
+<br/>
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
