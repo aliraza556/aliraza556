@@ -16,11 +16,13 @@
 
 - 🌱 I’m currently learning **AWS Certified Solutions Architect - Associate**
 
-- 👯 I’m looking to collaborate on [Second Brain](https://github.com/stakwork/sphinx-nav-fiber)
+- 🤝 Proficient in building and deploying applications using the MERN Stack, ensuring they are fully operational and ready for use.
 
-- 💬 Ask me about **Web Development, MEARN STACK**
+- 👯  Collaborating on the [Second Brain](https://github.com/stakwork/sphinx-nav-fiber) Project
 
-- 📫 How to reach me **alirazaakhtar1122@gmail.com**
+- 💬 Feel free to ask me about `**Web Development**` and the `**MERN Stack**`.
+
+- 📫  Reach me at `**alirazaakhtar1122@gmail.com**` for professional inquiries or potential collaborations
 
 - ⚡ Fun fact **I believe humor is a vital ingredient in creativity and teamwork. Expect a good laugh when working with me!**
 
