@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<div align="center"> <img src="[https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)"> </div>
+<div align="center"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"> </div>
 <h3 align="center">Experienced Full Stack Developer specializing in NodeJS, React, Angular, Typescript, Java and Cloud Technologies, dedicated to building innovative and efficient web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza556&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza556" /> </p>
